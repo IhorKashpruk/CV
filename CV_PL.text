@@ -1,0 +1,62 @@
+\documentclass[12pt,a4paper,sans]{moderncv}
+\usepackage[utf8]{inputenc}
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+\usepackage[scale=0.75]{geometry}
+
+\name{Ihor}{Kashpruk}
+\address{ul. Hallera 2/12, Wrocław, Polska, 53-319}
+\phone[mobile]{+48 732 802 641}
+\email{igork1823@gmail.com}
+\social[github][www.github.com]{IhorKashpruk}
+
+\title{Curriculum Vitae}
+
+\begin{document}
+\makecvtitle
+\small{Absolwent studiów informatycznych. Pasjąnuję się programowaniem, posiadam silne umiejętnośći techniczne, interpersonalne. Ciągłe się rozwijam w poznawaniu nowych technologii.}
+
+\section{Wykształcenie}
+
+\begin{itemize}
+\item{\cventry{2010--2014}{wyższe (młodszy inżynier), Informatyka}{Technikum od Nardowego Uniwersytetu Technologii Żywnośći}{Winnica, Ukraina}{}{}}
+\item{\cventry{2014--2018}{wyższe (inżynier), Informatyka, inżyneria oprogramowania}{Wyższa szkoła Ekonomii i Innowacji}{Lublin, Polska}{}{}}
+
+\end{itemize}
+
+\section{Technologie}
+\begin{itemize}
+
+\item{C/C++(bardzo dobry), QT/QML, stl, boost, pthread, std::thread, MPI, OpenMP, gtest, SDL2, Box2D}
+\item{Java, JavaFX}
+\item{C\#}
+\item{Python}
+\item{JavaScript, HTML, CSS}
+\item{SQL, MySQL}
+\item{GitHub}
+\end{itemize}
+
+\section{Umiejętnośći}
+\begin{itemize}
+\item{Linux(preferowany), Windows}
+\item{programowanie siecowe, systemowe(Linux) ta metaprogramowanie}
+\item{wielowątkowość}
+\item{OOP, wzorce projektowe, UML}
+\item{podstawy baz danych, podstawy testowania}
+\end{itemize}
+
+
+\section{Portfolio}
+GitHub:
+\textcolor{blue}{\url{https://github.com/IhorKashpruk}}
+
+\section{Języki obce}
+\begin{itemize}
+
+\item{Polski - zaawansowany}
+\item{Angielski - średnio zaawansowany}
+\item{Ukraiński, Rosyjski - biegły}
+\end{itemize}
+
+\fancyfoot[C]{\textcolor{gray}{"Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w niniejszym cv dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych; tekst jednolity: Dz.U. 2018 poz. 1000)."}}
+\end{document}
